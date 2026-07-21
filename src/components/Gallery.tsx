@@ -14,10 +14,10 @@ const ARTWORKS = [
     {
         id: 1,
         src: image1, // Eyes
-        title: "The Silent Vigil",
+        title: "The Psalmist",
         medium: "Oil on Linen",
         year: "2024",
-        description: "A study of solitude and the quiet dignity found in moments of waiting. The heavy chiaroscuro emphasizes the subject's isolation while highlighting the resilience in their posture."
+        description: "Though the man may appear deranged at first glance, a closer look reveals something quieter. Behind the unkempt beard and wild hair lie years etched into his skin wisdom carried in the wrinkles of his face and the calm of his eyes. Beneath the chaos rests a stillness shaped by time."
     },
     {
         id: 2,
@@ -25,15 +25,15 @@ const ARTWORKS = [
         title: "Ethereal Descent",
         medium: "Acrylic & Gold Leaf",
         year: "2023",
-        description: "Capturing the interplay between the divine and the terrestrial. The clouds are rendered with soft, feathered strokes to contrast with the sharp, deliberate application of gold leaf."
+        description: "Crowned in thorns, he bears the mark of divinity and suffering. The light upon him feels sacred, yet does not shield him from the ache etched into his flesh. Even in pain, he does not resist. There is strength in the way he endures not defiant, not defeated, but accepting."
     },
     {
         id: 3,
-        src: image3, // Hands Image
-        title: "Portrait of fading Memory",
+        src: image3, // Napolean
+        title: "Portrait of Fading Memory",
         medium: "Oil on Canvas",
         year: "2025",
-        description: "An exploration of how memory degrades over time. The features are intentionally softened, merging with the background darkness, suggesting a presence that is slowly slipping away."
+        description: "An exploration of how memory degrades over time.The features are intentionally softened, merging with the background darkness, suggesting a presence that is slowly slipping away showcasing how time erodes even the memories of the greatest figures and stops for none."
     },
     {
         id: 5,
